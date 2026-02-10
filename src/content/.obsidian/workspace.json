@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "2325e22f5f2cb818",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8a2af289e2d826d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50e9ed749db93375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/【小技巧】如何为steam添加浏览器拓展.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【小技巧】如何为steam添加浏览器拓展"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8914d00ed2a32dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "c78638001c287fd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "357c6d133252f8ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6d4f896c1233fba6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "304feca0e9891690",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d747c1243f84b3a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a600e43a1095c6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be86ea9bbe8f0fd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/【小技巧】如何为steam添加浏览器拓展.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【小技巧】如何为steam添加浏览器拓展 的反向链接列表"
+            }
+          },
+          {
+            "id": "bc9a69c08ed5103c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/【小技巧】如何为steam添加浏览器拓展.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【小技巧】如何为steam添加浏览器拓展 的出链列表"
+            }
+          },
+          {
+            "id": "29dda9606b1e4922",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b069aa3cb830a8f0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "91741cf37b923a1b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/【小技巧】如何为steam添加浏览器拓展.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "【小技巧】如何为steam添加浏览器拓展 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "50e9ed749db93375",
+  "lastOpenFiles": [
+    "未命名.base",
+    "posts/【小技巧】如何为steam添加浏览器拓展.md",
+    "assets/images/Pasted image 20260210215735.png",
+    "assets/images",
+    "assets",
+    "Pasted image 20260210215523.png",
+    "spec/about.md"
+  ]
+}
