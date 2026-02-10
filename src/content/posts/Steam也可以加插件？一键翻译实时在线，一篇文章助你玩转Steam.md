@@ -5,7 +5,6 @@ description: 众所周知，当前的Steam基于谷歌chorme的内核运行，�
 image: ../assets/images/【小技巧】如何为steam添加浏览器拓展.png
 tags:
   - 教程
-category: ""
 draft: false
 lang: ""
 ---

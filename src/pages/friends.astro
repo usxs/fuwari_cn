@@ -1,0 +1,51 @@
+---
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import links from "../content/links.json";
+import { i18n } from "../i18n/translation";
+import I18nKey from "../i18n/i18nKey";
+---
+
+<MainGridLayout title="友情链接">
+    <div class="flex w-full rounded-[24px] bg-[var(--card-bg)] px-6 py-8 md:px-10 transition-all">
+        <div class="flex flex-col w-full">
+            <div class="flex items-center gap-3 mb-6">
+                <div class="w-1.5 h-7 bg-[var(--primary)] rounded-full"></div>
+                <h1 class="text-3xl font-bold text-75">友情链接</h1>
+            </div>
+
+            <div class="bg-[oklch(95%_0.01_var(--hue))] dark:bg-[oklch(25%_0.02_var(--hue))] p-4 rounded-2xl border border-black/5 dark:border-white/5 mb-8">
+                <p class="text-sm opacity-70 leading-relaxed mb-4">
+                    欢迎交换友链！如果你想加入本站，请点击下方按钮前往 GitHub 提交 Issue。系统将自动处理并在几分钟内更新。
+                </p>
+                <a href="https://github.com/usxs/fuwari_cn/issues/new?template=link-request.yml" 
+                   target="_blank" 
+                   class="flex items-center gap-2 px-4 py-2 bg-[var(--primary)] text-white hover:saturate-150 transition-all rounded-xl w-fit font-bold text-sm shadow-sm shadow-[var(--primary)]/20">
+                    <i class="fa6-solid:paper-plane"></i>
+                    🚀 自助申请友链
+                </a>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {links && links.map((link) => (
+                    <a href={link.url} target="_blank" 
+                       class="group flex items-center p-3 rounded-2xl border border-black/5 dark:border-white/5 hover:bg-[oklch(95%_0.01_var(--hue))] dark:hover:bg-[oklch(30%_0.02_var(--hue))] transition-all duration-300">
+                        
+                        <div class="w-12 h-12 flex-shrink-0 relative">
+                            <img src={link.avatar} alt={link.name} 
+                                 class="w-full h-full rounded-full object-cover border-2 border-white dark:border-gray-800 shadow-sm group-hover:scale-110 transition-transform duration-500" />
+                        </div>
+
+                        <div class="flex flex-col ml-3 overflow-hidden">
+                            <span class="font-bold text-[var(--primary)] truncate group-hover:translate-x-1 transition-transform">
+                                {link.name}
+                            </span>
+                            <span class="text-[11px] opacity-40 line-clamp-1">
+                                {link.bio || "点击访问这个神秘站点"}
+                            </span>
+                        </div>
+                    </a>
+                ))}
+            </div>
+        </div>
+    </div>
+</MainGridLayout>

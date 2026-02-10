@@ -1,0 +1,31 @@
+name: 🤝 申请友链
+description: 提交你的博客信息以加入友链
+labels: ["friend-link"]
+body:
+  - type: markdown
+    attributes:
+      value: "感谢申请友链！请如实填写以下信息。"
+  - type: input
+    id: name
+    attributes:
+      label: 网站名称
+      placeholder: "例如：KccG"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 网站链接
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: avatar
+    attributes:
+      label: 头像链接
+      placeholder: "https://..."
+  - type: textarea
+    id: bio
+    attributes:
+      label: 网站简介
+      placeholder: "一句话介绍你的站点"

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
-                "mode": "preview",
+                "file": "spec/about.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam"
+              "title": "about"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
+                "file": "spec/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam 的反向链接列表"
+              "title": "about 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
+                "file": "spec/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam 的出链列表"
+              "title": "about 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
+                "file": "spec/about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam 的大纲"
+              "title": "about 的大纲"
             }
           }
         ],
@@ -186,6 +186,12 @@
   },
   "active": "50e9ed749db93375",
   "lastOpenFiles": [
+    "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
+    "spec/about.md",
+    "spec/新建文本文档.txt",
+    "spec/friends.md",
+    "links.json",
+    "新建文本文档.txt",
     "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-19.png",
     "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-18.png",
     "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-17.png",
@@ -196,9 +202,6 @@
     "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-12.png",
     "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-11.png",
     "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-10.png",
-    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-9.png",
-    "spec/about.md",
-    "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
     "未命名.base",
     "assets/images",
     "assets"

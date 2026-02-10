@@ -1,0 +1,30 @@
+name: Auto Add Friend Link
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  add-link:
+    if: contains(github.event.issue.labels.*.name, 'friend-link')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Update Links JSON
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: node scripts/update-links.js
+      - name: Commit and Push
+        run: |
+          git config --global user.name "LinkBot"
+          git config --global user.email "bot@github.com"
+          git add src/content/links.json
+          git commit -m "docs: 自动新增友链 [skip ci]"
+          git push
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          comment: "友链已通过审核并自动添加成功！部署完成后即可看到。"
