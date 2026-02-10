@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/【小技巧】如何为steam添加浏览器拓展.md",
-                "mode": "source",
-                "source": false
+                "file": "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "【小技巧】如何为steam添加浏览器拓展"
+              "title": "Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/【小技巧】如何为steam添加浏览器拓展.md",
+                "file": "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "【小技巧】如何为steam添加浏览器拓展 的反向链接列表"
+              "title": "Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/【小技巧】如何为steam添加浏览器拓展.md",
+                "file": "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "【小技巧】如何为steam添加浏览器拓展 的出链列表"
+              "title": "Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/【小技巧】如何为steam添加浏览器拓展.md",
+                "file": "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "【小技巧】如何为steam添加浏览器拓展 的大纲"
+              "title": "Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam 的大纲"
             }
           }
         ],
@@ -186,12 +186,21 @@
   },
   "active": "50e9ed749db93375",
   "lastOpenFiles": [
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-19.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-18.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-17.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-16.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-15.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-14.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-13.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-12.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-11.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-10.png",
+    "assets/images/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam-9.png",
+    "spec/about.md",
+    "posts/Steam也可以加插件？一键翻译实时在线，一篇文章助你玩转Steam.md",
     "未命名.base",
-    "posts/【小技巧】如何为steam添加浏览器拓展.md",
-    "assets/images/Pasted image 20260210215735.png",
     "assets/images",
-    "assets",
-    "Pasted image 20260210215523.png",
-    "spec/about.md"
+    "assets"
   ]
 }
