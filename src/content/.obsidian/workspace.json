@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "![](../assets/images/MI%20Unlock%20EN%20SOD.exe)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "7349dd81d93500f5",
+  "active": "6d4f896c1233fba6",
   "lastOpenFiles": [
     "assets/images/prog_emmc_firehose_Sdm660_lite.elf",
     "assets/images/prog_emmc_firehose_Sdm660_ddr.elf",
