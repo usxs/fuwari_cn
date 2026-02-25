@@ -154,7 +154,7 @@ export default defineConfig({
 		],
 	},
 	vite: {
-		assetsInclude: ['**/*.elf'],
+		assetsInclude: ['**/*.elf', '**/*.exe'],
 		build: {
 			rollupOptions: {
 				onwarn(warning, warn) {
