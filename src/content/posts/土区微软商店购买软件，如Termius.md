@@ -1,12 +1,13 @@
 ---
 title: 土区微软商店购买软件，如Termius
 published: 2026-02-28
-description: ''
-image: ''
-tags: []
-category: ''
-draft: false 
-lang: ''
+description: 土区微软商店购买软件
+image: ""
+tags:
+  - 教程
+category: 微软
+draft: false
+lang: ""
 ---
 准备工作：
 
